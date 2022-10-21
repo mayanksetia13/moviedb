@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moviedb/static/css/main.a3590241.css",
+    "main.js": "/moviedb/static/js/main.df192aa9.js",
+    "index.html": "/moviedb/index.html",
+    "main.a3590241.css.map": "/moviedb/static/css/main.a3590241.css.map",
+    "main.df192aa9.js.map": "/moviedb/static/js/main.df192aa9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3590241.css",
+    "static/js/main.df192aa9.js"
+  ]
+}
